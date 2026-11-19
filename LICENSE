@@ -1,7 +1,7 @@
 # tiny-chess-bot1
 
-[![make.fun](https://make.fun/badge/tiny-chess-01.svg)](https://make.fun/bounty/tiny-chess-01)
-[![Rank](https://make.fun/badge/tiny-chess-01/nahinhan/tiny-chess-bot1/rank.svg)](https://make.fun/bounty/tiny-chess-01)
-[![Reward](https://make.fun/badge/tiny-chess-01/nahinhan/tiny-chess-bot1/reward.svg)](https://make.fun/bounty/tiny-chess-01)
+![make.fun](https://make.fun/badge/tiny-chess-01.svg)
+![rank](https://make.fun/badge/tiny-chess-01/nahinhan/tiny-chess-bot1/rank.svg)
+![reward](https://make.fun/badge/tiny-chess-01/nahinhan/tiny-chess-bot1/reward.svg)
 
-Compact 4KB Python chess engine built for the [tiny-chess-01 bounty on make.fun](https://make.fun/bounty/tiny-chess-01).
+Engine catur Python < 4 KB untuk kompetisi [tiny-chess-01 di make.fun](https://make.fun/bounty/tiny-chess-01).
